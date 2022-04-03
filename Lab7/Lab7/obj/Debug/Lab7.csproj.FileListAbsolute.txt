@@ -1,0 +1,11 @@
+K:\repos\Lab7\Lab7\bin\Debug\Lab7.exe.config
+K:\repos\Lab7\Lab7\bin\Debug\Lab7.exe
+K:\repos\Lab7\Lab7\bin\Debug\Lab7.pdb
+K:\repos\Lab7\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+K:\repos\Lab7\Lab7\obj\Debug\Lab7.csproj.SuggestedBindingRedirects.cache
+K:\repos\Lab7\Lab7\obj\Debug\Lab7.Form1.resources
+K:\repos\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+K:\repos\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+K:\repos\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+K:\repos\Lab7\Lab7\obj\Debug\Lab7.exe
+K:\repos\Lab7\Lab7\obj\Debug\Lab7.pdb

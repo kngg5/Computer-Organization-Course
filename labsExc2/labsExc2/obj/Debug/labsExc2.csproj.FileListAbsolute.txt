@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\labsExc2\labsExc2\bin\Debug\labsExc2.exe.config
+C:\Users\PC\source\repos\labsExc2\labsExc2\bin\Debug\labsExc2.exe
+C:\Users\PC\source\repos\labsExc2\labsExc2\bin\Debug\labsExc2.pdb
+C:\Users\PC\source\repos\labsExc2\labsExc2\obj\Debug\labsExc2.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\labsExc2\labsExc2\obj\Debug\labsExc2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\labsExc2\labsExc2\obj\Debug\labsExc2.Form1.resources
+C:\Users\PC\source\repos\labsExc2\labsExc2\obj\Debug\labsExc2.Properties.Resources.resources
+C:\Users\PC\source\repos\labsExc2\labsExc2\obj\Debug\labsExc2.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\labsExc2\labsExc2\obj\Debug\labsExc2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\labsExc2\labsExc2\obj\Debug\labsExc2.exe
+C:\Users\PC\source\repos\labsExc2\labsExc2\obj\Debug\labsExc2.pdb

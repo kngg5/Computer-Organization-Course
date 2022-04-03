@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\labs3\labs3\bin\Debug\labs3.exe.config
+C:\Users\PC\source\repos\labs3\labs3\bin\Debug\labs3.exe
+C:\Users\PC\source\repos\labs3\labs3\bin\Debug\labs3.pdb
+C:\Users\PC\source\repos\labs3\labs3\obj\Debug\labs3.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\labs3\labs3\obj\Debug\labs3.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\labs3\labs3\obj\Debug\labs3.Form1.resources
+C:\Users\PC\source\repos\labs3\labs3\obj\Debug\labs3.Properties.Resources.resources
+C:\Users\PC\source\repos\labs3\labs3\obj\Debug\labs3.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\labs3\labs3\obj\Debug\labs3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\labs3\labs3\obj\Debug\labs3.exe
+C:\Users\PC\source\repos\labs3\labs3\obj\Debug\labs3.pdb

@@ -1,0 +1,11 @@
+K:\repos\Lab8\Lab8\bin\Debug\Lab8.exe.config
+K:\repos\Lab8\Lab8\bin\Debug\Lab8.exe
+K:\repos\Lab8\Lab8\bin\Debug\Lab8.pdb
+K:\repos\Lab8\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+K:\repos\Lab8\Lab8\obj\Debug\Lab8.csproj.SuggestedBindingRedirects.cache
+K:\repos\Lab8\Lab8\obj\Debug\Lab8.Form1.resources
+K:\repos\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+K:\repos\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+K:\repos\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+K:\repos\Lab8\Lab8\obj\Debug\Lab8.exe
+K:\repos\Lab8\Lab8\obj\Debug\Lab8.pdb

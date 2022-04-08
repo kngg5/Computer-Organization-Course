@@ -1,0 +1,12 @@
+K:\repos\Lab9\Lab9\bin\Debug\Lab9.exe.config
+K:\repos\Lab9\Lab9\bin\Debug\Lab9.exe
+K:\repos\Lab9\Lab9\bin\Debug\Lab9.pdb
+K:\repos\Lab9\Lab9\obj\Debug\Lab9.csproj.AssemblyReference.cache
+K:\repos\Lab9\Lab9\obj\Debug\Lab9.csproj.SuggestedBindingRedirects.cache
+K:\repos\Lab9\Lab9\obj\Debug\Lab9.Form1.resources
+K:\repos\Lab9\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+K:\repos\Lab9\Lab9\obj\Debug\Lab9.csproj.GenerateResource.cache
+K:\repos\Lab9\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+K:\repos\Lab9\Lab9\obj\Debug\Lab9.exe
+K:\repos\Lab9\Lab9\obj\Debug\Lab9.pdb
+K:\repos\Lab9\Lab9\obj\Debug\Lab9.Form2.resources

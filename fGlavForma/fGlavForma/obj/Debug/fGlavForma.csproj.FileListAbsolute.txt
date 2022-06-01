@@ -1,0 +1,14 @@
+K:\repos\fGlavForma\fGlavForma\obj\Debug\fGlavForma.csproj.AssemblyReference.cache
+K:\repos\fGlavForma\fGlavForma\obj\Debug\fGlavForma.csproj.SuggestedBindingRedirects.cache
+K:\repos\fGlavForma\fGlavForma\obj\Debug\fGlavForma.Customs_declaration_export.resources
+K:\repos\fGlavForma\fGlavForma\obj\Debug\fGlavForma.Employees.resources
+K:\repos\fGlavForma\fGlavForma\obj\Debug\fGlavForma.Form1.resources
+K:\repos\fGlavForma\fGlavForma\obj\Debug\fGlavForma.Products.resources
+K:\repos\fGlavForma\fGlavForma\obj\Debug\fGlavForma.Properties.Resources.resources
+K:\repos\fGlavForma\fGlavForma\obj\Debug\fGlavForma.csproj.GenerateResource.cache
+K:\repos\fGlavForma\fGlavForma\obj\Debug\fGlavForma.csproj.CoreCompileInputs.cache
+K:\repos\fGlavForma\fGlavForma\bin\Debug\fGlavForma.exe.config
+K:\repos\fGlavForma\fGlavForma\bin\Debug\fGlavForma.exe
+K:\repos\fGlavForma\fGlavForma\bin\Debug\fGlavForma.pdb
+K:\repos\fGlavForma\fGlavForma\obj\Debug\fGlavForma.exe
+K:\repos\fGlavForma\fGlavForma\obj\Debug\fGlavForma.pdb
